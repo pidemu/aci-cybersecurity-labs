@@ -1,14 +1,13 @@
 # 🔐 ACI Cybersecurity Labs
 
-Hands-on lab work completed through ACI Learning's Skill Labs platform,
-covering coursework at Georgia State University and CompTIA Security+ (SY0-701) prep.
+Hands-on lab work completed through ACI Learning's Skill Labs platform, covering coursework at Georgia State University and CompTIA Security+ (SY0-701) prep.
 
 ## Courses & Certifications
 | Course | Labs Completed | Platform |
 |--------|---------------|----------|
-| GSU CIS 4680 – Introduction to Information Security and Privacy | 14 | ACI Learning - Skill Labs |
-| GSU CIS 4688 – Protecting Business Systems and Networks | 14 | ACI Learning - Skill Labs |
-| GSU CIS 4684 – CompTIA Security+ SY0-701 Prep | 36 | ACI Learning - Skill Labs |
+| [CIS 4680 – Introduction to Information Security and Privacy](https://github.com/pidemu/aci-cybersecurity-labs/tree/main/CIS-4680-Intro-InfoSec) | 14 | ACI Learning - Skill Labs |
+| CIS 4688 – Protecting Business Systems and Networks | 14 | ACI Learning - Skill Labs |
+| CIS 4684 – CompTIA Security+ SY0-701 Prep | 36 | ACI Learning - Skill Labs |
 
 ## Skill Areas Demonstrated
 - Network analysis (Wireshark, packet sniffing)
