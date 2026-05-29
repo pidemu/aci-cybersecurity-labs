@@ -1,4 +1,4 @@
-# 🔐 ACI Cybersecurity Labs
+# 🔐 ACI Cybersecurity Labs Documentation
 
 Hands-on lab work completed through ACI Learning's Skill Labs platform, covering coursework at Georgia State University and CompTIA Security+ (SY0-701) prep.
 
@@ -21,6 +21,6 @@ Hands-on lab work completed through ACI Learning's Skill Labs platform, covering
 
 ---
 
-⭐ Lab completed as part of coursework at Georgia State University. Some reconstructed documentation post-completion and during the course.
+⭐ *Lab completed as part of coursework at Georgia State University. Some reconstructed documentation post-completion and during the course.*
  
 
