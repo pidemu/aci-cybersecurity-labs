@@ -1,4 +1,4 @@
-# CIS 4680 – Introduction to Information Security and Privacy
+# CIS 4680 – Introduction to Information Security and Privacy (Write-up)
 
 **Institution:** Georgia State University
 
