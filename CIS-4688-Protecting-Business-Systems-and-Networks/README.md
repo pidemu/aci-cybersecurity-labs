@@ -2,7 +2,7 @@
 
 Institution: Georgia State University
 
-Platform: ACI Learning – InfoSec Learning Skill Labs
+Platform: ACI Learning Skill Labs
 
 Total Labs Completed: 14
 
