@@ -2,7 +2,7 @@
 
 **Course:** CIS 4680 – Introduction to Information Security and Privacy
 
-**Platform:** ACI Learning – InfoSec Learning Skill Labs
+**Platform:** ACI Learning Skill Labs
 
 ## Objective
 The objective of this lab is to understand how Active Directory is used in enterprise environments to manage users, computers, groups, and security policies. This lab provides hands-on experience with creating and managing Active Directory objects, configuring permissions, and implementing centralized authentication and security controls within a Windows domain environment.
