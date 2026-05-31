@@ -2,7 +2,7 @@
 
 **Course:** CIS 4680 – Introduction to Information Security and Privacy
 
-**Platform:** ACI Learning – InfoSec Learning Skill Labs
+**Platform:** ACI Learning Skill Labs
 
 ## Objective
 Configure and enforce operating system-level security policies on both Windows and Linux platforms. Apply principle of least privilege, set password complexity and account lockout requirements, configure audit logging, and verify that policies are properly applied and enforced across user accounts and system settings.
