@@ -2,7 +2,7 @@
 
 **Course:** CIS 4680 – Introduction to Information Security and Privacy
 
-**Platform:** ACI Learning – InfoSec Learning Skill Labs
+**Platform:** ACI Learning Skill Labs
 
 ## Objective
 The objective of this lab was to understand the fundamentals of incident response procedures and digital forensics. The lab focused on identifying security incidents, collecting forensic evidence, preserving data integrity, and analyzing compromised systems.
