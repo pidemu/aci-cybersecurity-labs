@@ -15,13 +15,13 @@ Configure and enforce operating system-level security policies on both Windows a
 | Windows Event Viewer | Verifying audit log generation |
 
 ## Key Concepts Covered
-- **Windows Group Policy** — GPOs define security settings applied to users and computers in an Active Directory environment or locally. Settings include password policy, account lockout, user rights assignments, and security options.
-- **Password Policy Requirements** — Minimum length, complexity requirements (uppercase, lowercase, digits, special characters), maximum age, minimum age, and password history prevent weak and reused credentials.
-- **Account Lockout Policy** — Threshold (failed attempts before lockout), lockout duration, and observation window parameters defend against online brute-force attacks.
-- **Principle of Least Privilege** — Users and processes should have only the permissions required for their function; excess privileges are a primary enabler of privilege escalation attacks.
+- **Windows Group Policy**
+- **Password Policy Requirements**
+- **Account Lockout Policy** 
+- **Principle of Least Privilege** 
 
 ## What I Learned
-- Security policies are only as effective as their enforcement mechanism — Windows GPO and Linux PAM provide the technical controls, but administrators must verify they are applied correctly.
+- Security policies are only as effective as their enforcement mechanism. Windows GPO and Linux PAM provide the technical controls, but administrators must verify they are applied correctly.
 - Password complexity requirements and account lockout policies work together: complexity raises the cost of offline attacks while lockout limits online attempts.
 - The same security objectives (strong passwords, account lockout, logging) require entirely different technical implementations on Windows vs. Linux, highlighting the value of platform-specific knowledge.
 
