@@ -7,7 +7,7 @@ Hands-on lab work completed through ACI Learning Skill Labs platform, covering c
 |--------|---------------|----------|
 | [CIS 4680 – Introduction to Information Security and Privacy](https://github.com/pidemu/aci-cybersecurity-labs/tree/main/CIS-4680-Intro-InfoSec) | 14 | ACI Learning Skill Labs |
 | [CIS 4688 – Protecting Business Systems and Networks](https://github.com/pidemu/aci-cybersecurity-labs/tree/main/CIS-4688-Protecting-Business-Systems-and-Networks) | 14 | ACI Learning Skill Labs |
-| [CIS 4684 – CompTIA Security+ SY0-701 Prep](https://github.com/pidemu/aci-cybersecurity-labs/tree/main/CIS-4684-CompTIA-SecurityPlus-SY0-701) | 36 | ACI Learning Skill Labs |
+| [CIS 4684 – Cybersec Tools](https://github.com/pidemu/aci-cybersecurity-labs/tree/main/CIS-4684-CompTIA-SecurityPlus-SY0-701) | 36 | ACI Learning Skill Labs |
 
 ## Skill Areas Demonstrated
 - Network analysis (Wireshark, packet sniffing)
