@@ -23,5 +23,15 @@ Total Labs Completed: 14
 | 13 | Implementing RIP, RIPv2, and Securing RIP |
 | 14 | Breaking WEP and WPA and Decrypting the Traffic |
 
+## Skills Demonstrated
+
+- **Network Security** — Protocol analysis, traffic capture
+- **Perimeter Defense** — Firewall rule design, zone segmentation, IDS deployment
+- **Identity Management** — User provisioning, password policy, account hardening
+- **Offensive Awareness** — Password cracking, exploitation, wireless attacks
+- **Remote Access Security** — VPN deployment, NAT, SSH/RDP hardening
+- **Routing Security** — Dynamic routing, authentication, route manipulation defense
+- & more...
+
 ---
 ⭐ *Lab completed as part of coursework at Georgia State University. Some reconstructed documentation post-completion and during the course.*
