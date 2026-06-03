@@ -1,10 +1,10 @@
 ## CIS 4688 - Protecting Business Systems and Networks (Write-up)
 
-Institution: Georgia State University
+**Institution:** Georgia State University
 
-Platform: ACI Learning Skill Labs
+**Platform:** ACI Learning Skill Labs
 
-Total Labs Completed: 14
+**Total Labs Completed:** 14
 
 | # | Labs |
 |---|-----|
