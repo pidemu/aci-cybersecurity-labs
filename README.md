@@ -1,6 +1,6 @@
 # 🔐 ACI Cybersecurity Labs Documentation
 
-Hands-on lab work completed through ACI Learning Skill Labs platform, covering coursework at Georgia State University.
+Hands-on lab work completed through **ACI Learning Skill Labs** platform, covering coursework at **Georgia State University**.
 
 ## Courses & Certifications
 | Course | Labs Completed | Platform |
@@ -22,6 +22,6 @@ Hands-on lab work completed through ACI Learning Skill Labs platform, covering c
 
 ---
 
-⭐ *Lab completed as part of coursework at Georgia State University. Some reconstructed documentation post-completion and during the course.*
+⭐ *Lab completed as part of coursework at **Georgia State University**. Some reconstructed documentation post-completion and during the course.*
  
 
