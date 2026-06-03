@@ -1,10 +1,10 @@
 ## CIS 4688 - CYBERSEC TOOLS [CompTIA Security+ SY0-701 Prep] (Write Up)
 
-Institution: Georgia State University
+**Institution:** Georgia State University
 
-Platform: ACI Learning Skill Labs
+**Platform:** ACI Learning Skill Labs
 
-Total Labs Completed: 36
+**Total Labs Completed:** 36
 
 ## Labs Completed
 
