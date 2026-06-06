@@ -17,8 +17,7 @@ Hands-on lab work completed through **ACI Learning Skill Labs** platform, coveri
 - Firewall configuration & IDS/IPS
 - Incident response & forensics
 - Password attacks & defense
-- & more
-...
+- & more ...
 
 ---
 
